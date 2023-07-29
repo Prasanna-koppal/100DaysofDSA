@@ -29,5 +29,4 @@ public class Second_largest {
 scan.close();
 
 	}
-
 }
